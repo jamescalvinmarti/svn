@@ -2,6 +2,8 @@ alert('Escriu 5 numeros per saber quin es el més petit');
 
 var numeros = [];
 
+// comentari projecte1
+
 numeros.push(prompt('Primer número'));
 numeros.push(prompt('Segon número'));
 numeros.push(prompt('Tercer número'));
